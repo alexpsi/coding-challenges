@@ -1,5 +1,7 @@
 # adidas ASCII logo: JavaScript
 
+[![Build Status](https://travis-ci.org/alexpsi/coding-challenges.svg?branch=master)](https://travis-ci.org/alexpsi/coding-challenges)
+
 Implementation to resolve the [adidas ASCII logo challenge][adidas-ascii-logo] with JavaScript ES6+.
 
 ## Requirements and dependencies

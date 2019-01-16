@@ -1,0 +1,8 @@
+language: node_js
+sudo: false
+node_js:
+  - "8"
+install:
+  - cd adidas-ascii-logo/javascript && npm install
+script:
+  - cd adidas-ascii-logo/javascript && npm test
