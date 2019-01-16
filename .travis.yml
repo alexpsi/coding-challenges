@@ -5,4 +5,4 @@ node_js:
 install:
   - cd adidas-ascii-logo/javascript && npm install
 script:
-  - cd adidas-ascii-logo/javascript && npm test
+  - npm test
