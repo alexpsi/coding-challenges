@@ -1,5 +1,7 @@
 # adidas coding challenges
 
+[![Build Status](https://travis-ci.org/alexpsi/coding-challenges.svg?branch=master)](https://travis-ci.org/alexpsi/coding-challenges)
+
 The goal is to have public coding challenges so you, developer, can solve them... and start the hiring process if you want to work with us.
 
 This repository contains several coding challenges in different folders, and inside them, the same challenge with the necessary code to be executed in different languages. We usually work with Java, Kotlin, Go, Swift, JavaScript and TypeScript in most of the projects.
